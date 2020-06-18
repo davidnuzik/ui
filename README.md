@@ -1,3 +1,5 @@
+This is a test. You should not see this line in production in rancher/ui.
+
 Rancher UI
 --------
 
